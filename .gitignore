@@ -1,0 +1,5 @@
+Makefile
+*.exe
+*.mdb
+post.md
+*.dll
